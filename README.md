@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://my-stuff-sevene.pages.dev/">
     <img src="https://img.shields.io/badge/Website-Visit-blue" />
-  </a>
+  <a href="https://github.com/Vamshikrishna779/MyApps/releases/tag/v1.0.0"/>
   <img src="https://img.shields.io/badge/Platform-Android-green" />
 </p>
 
@@ -110,7 +110,7 @@ If you have feedback, suggestions, or issues, feel free to reach out:
 </p>
 
 <ul>
-  <li>Email: <b>EXPO_PUBLIC_CONTACT_EMAIL</b></li>
+  <li>Email: <b>mystuffsevene@gmail.com</b></li>
   <li>
     Website:
     <a href="https://my-stuff-sevene.pages.dev/">
