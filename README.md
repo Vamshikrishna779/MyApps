@@ -1,48 +1,56 @@
-<h1 align="center">🎬 My Stuff</h1>
+<h1 align="center">My Stuff</h1>
 
 <p align="center">
-  <b>Your personal library for movies & TV shows</b><br/>
+  <strong>Your personal library for movies & TV shows</strong><br/>
   Simple • Fast • Lightweight
 </p>
 
 <p align="center">
   <a href="https://my-stuff-sevene.pages.dev/">
-    🌐 Official Website
+    <img src="https://img.shields.io/badge/Website-Visit-blue" />
   </a>
 </p>
 
 <hr/>
 
-<h2>✨ About</h2>
+<h2>
+  <img src="https://cdn.simpleicons.org/aboutdotme/555555" width="18" />
+  About
+</h2>
 
 <p>
 <b>My Stuff</b> is a modern media tracking application built with
 <b>React Native</b> and <b>Expo</b>.
-It helps you organize, discover, and remember the movies and TV shows
-you love.
+It helps you organize, discover, and remember the movies and TV shows you love.
 </p>
 
 <p>
-Whether you want to track what you’ve watched or plan what to watch next,
-My Stuff keeps everything in one clean, easy-to-use place.
+Track what you’ve watched, plan what to watch next, and explore trending content
+— all in one clean and lightweight app.
 </p>
 
 <hr/>
 
-<h2>🚀 Features</h2>
+<h2>
+  <img src="https://cdn.simpleicons.org/starship/555555" width="18" />
+  Features
+</h2>
 
 <ul>
-  <li>📌 Track watched movies & TV shows</li>
-  <li>📝 Create and manage watchlists</li>
-  <li>🔥 Discover trending & popular content</li>
-  <li>⭐ Rate and review your favorite titles</li>
-  <li>🎨 Clean, lightweight, and responsive UI</li>
-  <li>🌙 Theme-aware design</li>
+  <li>Track watched movies and TV shows</li>
+  <li>Create and manage watchlists</li>
+  <li>Discover trending and popular content</li>
+  <li>Rate and review your favorite titles</li>
+  <li>Clean, fast, and lightweight UI</li>
+  <li>Theme-aware design</li>
 </ul>
 
 <hr/>
 
-<h2>📱 Screenshots</h2>
+<h2>
+  <img src="https://cdn.simpleicons.org/android/3DDC84" width="18" />
+  Screenshots
+</h2>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/174fd86a-2441-4dd7-bc12-cca367f4cca4" width="220"/>
@@ -52,27 +60,36 @@ My Stuff keeps everything in one clean, easy-to-use place.
 
 <hr/>
 
-<h2>🛠 Tech Stack</h2>
+<h2>
+  <img src="https://cdn.simpleicons.org/react/61DAFB" width="18" />
+  Tech Stack
+</h2>
 
 <ul>
-  <li><b>React Native</b></li>
-  <li><b>Expo</b></li>
-  <li><b>Lucide Icons</b></li>
-  <li><b>TMDB API</b></li>
+  <li>React Native</li>
+  <li>Expo</li>
+  <li>Lucide Icons</li>
+  <li>TMDB API</li>
 </ul>
 
 <hr/>
 
-<h2>📦 Installation</h2>
+<h2>
+  <img src="https://cdn.simpleicons.org/download/555555" width="18" />
+  Installation
+</h2>
 
 <p>
-Download the latest APK from the <b>Releases</b> section and install it
-on your Android device.
+Download the latest APK from the <b>Releases</b> section and install it on
+your Android device.
 </p>
 
 <hr/>
 
-<h2>⚠️ Disclaimer</h2>
+<h2>
+  <img src="https://cdn.simpleicons.org/warning/CC0000" width="18" />
+  Disclaimer
+</h2>
 
 <p>
 This product uses the <b>TMDB API</b> but is <b>not endorsed or certified</b>
@@ -81,17 +98,25 @@ by TMDB.
 
 <hr/>
 
-<h2>📬 Contact</h2>
+<h2>
+  <img src="https://cdn.simpleicons.org/maildotru/555555" width="18" />
+  Contact
+</h2>
 
 <ul>
-  <li>📧 Email: <b>EXPO_PUBLIC_CONTACT_EMAIL</b></li>
-  <li>🌐 Website: <a href="https://my-stuff-sevene.pages.dev/">my-stuff-sevene.pages.dev</a></li>
+  <li>Email: <b>EXPO_PUBLIC_CONTACT_EMAIL</b></li>
+  <li>
+    Website:
+    <a href="https://my-stuff-sevene.pages.dev/">
+      my-stuff-sevene.pages.dev
+    </a>
+  </li>
 </ul>
 
 <hr/>
 
 <p align="center">
-  Made with ❤️ for movie & TV enthusiasts
+  Built with React Native & Expo
 </p>
 
 <p align="center">
